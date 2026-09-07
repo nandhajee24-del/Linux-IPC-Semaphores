@@ -27,10 +27,12 @@ Execute the C Program for the desired output.
 
 ## OUTPUT
 $ ./sem.o 
+<img width="971" height="878" alt="image" src="https://github.com/user-attachments/assets/378c10df-100f-4a7e-9daf-95a5b7d428bf" />
 
 
 $ ipcs
 
+<img width="813" height="653" alt="image" src="https://github.com/user-attachments/assets/f103f514-eed0-4fca-a89a-ca56ad3fac62" />
 
 
 
